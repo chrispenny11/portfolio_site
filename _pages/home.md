@@ -5,9 +5,9 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/IMG_6486.jpg
-  actions:
+<!--   actions:
     - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/"
+      url: "/docs/quick-start-guide/" -->
 excerpt: >
   A portfolio of personal projects and photography.<br />
 feature_row:
@@ -28,7 +28,7 @@ feature_row:
   - image_path: /images/IMG_6434.jpg
     alt: "resume"
     title: "Resume"
-    excerpt: ""
+    excerpt: "Get a copy of my resume."
     url: "/resume/"
     btn_class: "btn--primary"
     btn_label: "View Resume"      
