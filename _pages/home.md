@@ -9,30 +9,30 @@ header:
     - label: "<i class='fas fa-download'></i> Install now"
       url: "/docs/quick-start-guide/"
 excerpt: >
-  A flexible two-column Jekyll theme. Perfect for building personal sites, blogs, and portfolios.<br />
+  A portfolio of personal projects and photography.<br />
   <small><a href="https://github.com/mmistakes/minimal-mistakes/releases/tag/4.24.0">Latest release v4.24.0</a></small>
 feature_row:
   - image_path: /images/IMG_6435.jpg
-    alt: "customizable"
-    title: "Super customizable"
-    excerpt: "Everything from the menus, sidebars, comments, and more can be configured or set with YAML Front Matter."
-    url: "/docs/configuration/"
+    alt: "projects"
+    title: "Projects"
+    excerpt: "A selection of personal projects."
+    url: "/projects/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "View Projects"
   - image_path: /images/IMG_6501.jpg
-    alt: "fully responsive"
-    title: "Responsive layouts"
+    alt: "photography"
+    title: "Photography"
     excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
-    url: "/docs/layouts/"
+    url: "/photography/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"
+    btn_label: "View Photography"
   - image_path: /images/IMG_6434.jpg
-    alt: "100% free"
-    title: "100% free"
+    alt: "resume"
+    title: "Resume"
     excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
-    url: "/docs/license/"
+    url: "/resume/"
     btn_class: "btn--primary"
-    btn_label: "Learn more"      
+    btn_label: "View Resume"      
 ---
 
 {% include feature_row %}
