@@ -5,9 +5,6 @@ hidden: true
 header:
   overlay_color: "#5e616c"
   overlay_image: /images/IMG_6486.jpg
-<!--   actions:
-    - label: "<i class='fas fa-download'></i> Install now"
-      url: "/docs/quick-start-guide/" -->
 excerpt: >
   A portfolio of personal projects and photography.<br />
 feature_row:
