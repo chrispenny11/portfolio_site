@@ -22,14 +22,14 @@ feature_row:
   - image_path: /images/IMG_6501.jpg
     alt: "photography"
     title: "Photography"
-    excerpt: "Built with HTML5 + CSS3. All layouts are fully responsive with helpers to augment your content."
+    excerpt: "Just showing off some favorites."
     url: "/photography/"
     btn_class: "btn--primary"
     btn_label: "View Photography"
   - image_path: /images/IMG_6434.jpg
     alt: "resume"
     title: "Resume"
-    excerpt: "Free to use however you want under the MIT License. Clone it, fork it, customize it... whatever!"
+    excerpt: ""
     url: "/resume/"
     btn_class: "btn--primary"
     btn_label: "View Resume"      
