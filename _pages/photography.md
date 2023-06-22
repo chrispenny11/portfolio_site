@@ -1,4 +1,4 @@
-title: "Photography Gallery"
+title: "Photography"
 excerpt: "All photos property of Chris Penny."
 permalink: /photography/
 gallery:
